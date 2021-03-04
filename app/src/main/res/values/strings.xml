@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW2_CS301_FaceCreator</string>
+    <string-array name="hairstyle_array">
+        <item>Long Hair</item>
+        <item>Short Hair</item>
+        <item> Bald </item>
+    </string-array>
+</resources>
